@@ -1,7 +1,7 @@
 Summary:	LSI megaraid adapters status tracker
 Name:		megactl
 Version:	0.4.1
-Release:	%mkrel 6
+Release:	%mkrel 7
 License:	GPL
 Group:		System/Kernel and hardware
 URL:		http://sourceforge.net/projects/megactl
@@ -21,6 +21,7 @@ Source12:	megasasctl.8
 Source13:	megatrace.8
 Source14:	README.Mandriva
 Patch0:		megactl-0.4.1.patch
+Requires:	nail
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
