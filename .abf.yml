@@ -1,0 +1,16 @@
+sources:
+  "create-devices-nodes:"	4d78e67b4dada5c002d6a9dda270f635de77ab1d
+  "megactl-0.4.1.tar.gz:"	b53ea7bb985c7c732452a0e387167fecd0a04f9b
+  "megactl.8:"	d0c2d424fdbc055b85cd25fd75cbb6f2cc1789e9
+  "megactl-cron:"	bf2920fd18e60f5d9167ac1776b76e3a2df569e4
+  "megactl.cron:"	838f6820071feedbd9a6ef8ccd97ddb3f17c94dc
+  "megactl-cron.conf:"	04ba018de238ed64f531462335910d0f8735215d
+  "megactl.sh:"	95d7e8a541f42e4dc45b7ab0464265b9d7b1e196
+  "megasasctl.8:"	6892b3132748d8934106f4310fbe27f6fdd49242
+  "megasasctl-cron:"	c7f78ad8f321a3b92dfd98b9e9ad0b8fa8195806
+  "megasasctl.cron:"	aaab290dd2be4a49e0459461a50eccb9724de648
+  "megasasctl-cron.conf:"	4c3d8fcebab38306fa0d0a17ad184c494fa90431
+  "megasasctl.sh:"	dd70d8993fc204e7f8193c997bdbd87ee1178ce3
+  "megatrace.8:"	bb78ff8eaf144a1608b16981ad5d1ebb8d5ff0a1
+  "megatrace.sh:"	99568318997884b3a4a8480ec05f9ec2c863d31b
+  "README.Mandriva:"	2c2cbf2421cbb570766f8542752425872389c065
