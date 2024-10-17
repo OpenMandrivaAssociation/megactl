@@ -4,7 +4,7 @@ Version:	0.4.1
 Release:	%mkrel 9
 License:	GPL
 Group:		System/Kernel and hardware
-URL:		http://sourceforge.net/projects/megactl
+URL:		https://sourceforge.net/projects/megactl
 Source0:	http://downloads.sourceforge.net/megactl/%{name}-%{version}.tar.gz
 Source1:	megactl.sh
 Source2:	megasasctl.sh
