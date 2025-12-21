@@ -24,6 +24,7 @@ Patch0:		megactl-0.4.1.patch
 Requires:	nail
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	make
 %description
 This project is a small collection of programs for examining configuration and
 status of LSI megaraid adapters, especially Dell PERC RAID adapters, and
